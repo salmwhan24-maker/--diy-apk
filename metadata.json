@@ -1,0 +1,6 @@
+{
+  "name": "ذهب أبو إسحاق",
+  "description": "أبو إسحاق لبيع وشراء الذهب الخام والمجوهرات — نظام متكامل يعمل بدون إنترنت لإدارة أسعار الذهب وفواتير البيع والشراء والنسخ الاحتياطي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
